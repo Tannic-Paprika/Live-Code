@@ -26,11 +26,6 @@
   - [Socket.IO](https://socket.io/)
   - [Express.js](https://expressjs.com/)
   
-## Project Structure
-
-- **Frontend Repository:** [Live Code Frontend](https://github.com/Sai1Ram/live-code)
-- **Backend Repository:** [Live Code Backend](https://github.com/Sai1Ram/live-code-backend)
-
 ## Getting Started
 
 ### Prerequisites
