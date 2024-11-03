@@ -38,8 +38,8 @@
 1. Clone the repositories:
 
    ```bash
-   git clone https://github.com/Sai1Ram/live-code.git
-   git clone https://github.com/Sai1Ram/live-code-backend.git
+   git clone https://github.com/Tannic-Paprika/live-code.git
+   git clone https://github.com/Tannic-Paprika/live-code-backend.git
 2. Install dependencies:
    
    ```bash
