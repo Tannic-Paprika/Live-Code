@@ -1,0 +1,8 @@
+{
+  "rewrites": [
+    {
+      "source": "/api/(.*)",
+      "destination": "https://live-code-3duc-owho99mrm-tannic-paprikas-projects.vercel.app/api/$1"
+    }
+  ]
+}
