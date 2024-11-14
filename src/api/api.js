@@ -1,6 +1,6 @@
 import axios from "axios";
 export const runCode = async (codeDetails) => {
-  const url = 'https://emkc.org/api/v2/piston/execute'
+  const url = 'https://live-code-backend-ezzk.onrender.com'
   try {
     const response = await axios.post(url, codeDetails);
     return response.data;
